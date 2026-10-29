@@ -82,3 +82,15 @@ Aspiring DevOps Engineer
 GitHub: https://github.com/nickolebiju19-lab  
 Docker Hub: https://hub.docker.com/r/nickoledocker/maven-web-app
 
+## Project Screenshots
+
+### 1. Jenkins CI/CD Pipeline
+![Jenkins successful build](screenshots/jenkins-success.png)
+
+### 2. Kubernetes Deployment on Amazon EKS
+![EKS deployment](screenshots/eks-deployment.png)
+
+### 3. Deployed Java Web Application
+![Application running in browser](screenshots/deployed-application.png)
+
+
